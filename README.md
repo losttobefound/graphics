@@ -1,6 +1,6 @@
 ## Hessen University Students Visualization (Processing)
 
-This project is focused on visualizing the number of students at universities in Hessen from the Wintersemester 1975 onwards. The aim is to provide insightful graphical representations of changes in student enrollment over the years.
+This project is focused on visualizing the number of students at university in Hessen from the Wintersemester 1975 onwards.
 
 ### Video Overview
 
